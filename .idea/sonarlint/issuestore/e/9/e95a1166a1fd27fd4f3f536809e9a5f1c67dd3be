@@ -1,0 +1,6 @@
+
+lsquid:S1192"IDefine a constant instead of duplicating this literal "^abcDeee" 3 times.(œ†úıÿÿÿÿ8”õ©†®.
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(‹¸Œôøÿÿÿÿ8Şø¯®.
+>squid:S2639" Correct this regular expression.(¬æ8ß¨‘†®.
+{squid:S1192"XDefine a constant instead of duplicating this literal "abcDeeeF12Ghhiiiijkl99z" 4 times.(Úûë¬ÿÿÿÿÿ8¢´ü†®.
+†squid:UselessImportCheck"VRemove this unused import 'com.sun.org.apache.xerces.internal.impl.xpath.regex.Match'.(‹¸Œôøÿÿÿÿ8Ú¸°®.
